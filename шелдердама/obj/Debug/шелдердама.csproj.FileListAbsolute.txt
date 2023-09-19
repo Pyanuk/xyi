@@ -1,0 +1,7 @@
+C:\Users\rhali\source\repos\шелдердама\шелдердама\bin\Debug\шелдердама.exe.config
+C:\Users\rhali\source\repos\шелдердама\шелдердама\bin\Debug\шелдердама.exe
+C:\Users\rhali\source\repos\шелдердама\шелдердама\bin\Debug\шелдердама.pdb
+C:\Users\rhali\source\repos\шелдердама\шелдердама\obj\Debug\шелдердама.csproj.AssemblyReference.cache
+C:\Users\rhali\source\repos\шелдердама\шелдердама\obj\Debug\шелдердама.csproj.CoreCompileInputs.cache
+C:\Users\rhali\source\repos\шелдердама\шелдердама\obj\Debug\шелдердама.exe
+C:\Users\rhali\source\repos\шелдердама\шелдердама\obj\Debug\шелдердама.pdb
